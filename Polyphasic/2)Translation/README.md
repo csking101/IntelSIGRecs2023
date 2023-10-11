@@ -6,3 +6,7 @@ The baseline model provided is a strong foundation, as it involves a seq2seq mod
 
 Different forms of experimentation and architectural model building are encouranged irrelevant of the performance of the model. Novel Ideation or Smart Experimentaion is highly appreciated.
 
+## References :
+- [Krish Naik DL](https://www.youtube.com/watch?v=d2kxUVwWWwU)
+- [Machine Translation](https://phrase.com/blog/posts/machine-translation/)
+- [Neural Machine Translation](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
