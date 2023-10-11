@@ -1,4 +1,4 @@
-# Task : Building a Closed and Extractive Question and Answer Language model based on provided Context
+# Task 2C : Building a Closed and Extractive Question and Answer Language model based on provided Context
 
 The goal of this task is to experiment and discover an language model that is suitable for the task of context based extractive question answering. 
 
