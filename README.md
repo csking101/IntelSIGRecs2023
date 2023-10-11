@@ -2,7 +2,7 @@
 
 We're thrilled to have you work on our exciting second task where curiosity meets intelligence. You're set to embark on an adventure of data exploration, innovation, and collaboration in this task. We hope this task will be a valuable learning experience for you, allowing you to explore the fascinating world of Machine Learning. Your unique perspective and ideas are highly valued, and we encourage you to engage, ask questions, and seek guidance. Get ready to dive into the world of Intelligence, and let's learn and grow together. Best wishes as you embark on this journey! 🌟💻
 
-Task 2 is a polyphasic task. This means that there are multiple phases to the overall task:
+We hope you enjoyed Task 1 on Kaggle! Task 2 is a polyphasic task. This means that there are multiple phases to the overall task:
 * **Task 2A** - Creating Word Embeddings
 * **Task 2B** - Performing Machine Translation
 * **Task 2C** - Doing QnA
